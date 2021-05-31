@@ -14,7 +14,7 @@ To run the tests, navigate to the *PrimeService.Tests* directory and type the fo
 dotnet restore
 dotnet test
 ```
-
+comment add
 `dotnet restore` restores the packages of both projects.
 
 `dotnet test` builds both projects and runs all of the configured tests.
